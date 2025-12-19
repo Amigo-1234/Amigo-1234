@@ -26,4 +26,4 @@ My focus is on real-world projects, clean UI, and smooth user experiences.
 
 ### 📫 Connect with me
 - GitHub: https://github.com/Amigo-1234
-- LinkedIn: (your LinkedIn link)
+- LinkedIn: (https://www.linkedin.com/in/muftau-idris-3221603a1)
