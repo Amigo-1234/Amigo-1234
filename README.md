@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Idris 👋
 
-<!--
-**Amigo-1234/Amigo-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer specializing in **Firebase-powered web applications**.
 
-Here are some ideas to get you started:
+I build clean, responsive, and production-ready web apps using **HTML, CSS, JavaScript, and Firebase**.  
+My focus is on real-world projects, clean UI, and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- Firebase (Auth, Firestore, Storage)
+- Responsive & Mobile-first Design
+- Git & GitHub
+
+---
+
+### 🚀 Featured Projects
+- **AMIGO** – Firebase-powered social web app (auth, profiles, real-time posts)
+- **BIA JUPEB Portal** – Student academic interface
+- **Haqslam** – Community & educational website
+
+👉 Portfolio: https://amigo-dev.vercel.app
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/Amigo-1234
+- LinkedIn: (your LinkedIn link)
