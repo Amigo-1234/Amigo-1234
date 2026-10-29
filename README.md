@@ -1,29 +1,44 @@
-# Hi, I’m Idris 👋
+Hi, I’m Muftau Idris 👋
 
-Front-End Developer specializing in **Firebase-powered web applications**.
+Full-Stack Developer | Building Useful Digital Products
 
-I build clean, responsive, and production-ready web apps using **HTML, CSS, JavaScript, and Firebase**.  
-My focus is on real-world projects, clean UI, and smooth user experiences.
+I’m a developer and Mechanical Engineering student at Ekiti State University (EKSU), Nigeria. I enjoy turning ideas into practical digital products, from business websites to interactive web applications.
 
----
+I work across frontend development, backend services, databases, authentication, and deployment, with a focus on clean interfaces, maintainable code, and reliable user experiences.
 
-### 🔧 Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
-- Firebase (Auth, Firestore, Storage)
-- Responsive & Mobile-first Design
-- Git & GitHub
+🌐 Portfolio: amigodev.com.ng
 
----
+🛠️ Technologies & Tools
 
-### 🚀 Featured Projects
-- **AMIGO** – Firebase-powered social web app (auth, profiles, real-time posts)
-- **BIA JUPEB Portal** – Student academic interface
-- **Haqslam** – Community & educational website
+* Frontend: HTML, CSS, JavaScript, React, Next.js
+* Backend & Data: Firebase, Supabase, authentication, databases
+* Deployment: Vercel, Firebase Hosting
+* Workflow: Git, GitHub, responsive design, debugging
 
-👉 Portfolio: https://amigo-dev.vercel.app
+🚀 Selected Projects
 
----
+EKSU Sports Hub
 
-### 📫 Connect with me
-- GitHub: https://github.com/Amigo-1234
-- LinkedIn: (https://www.linkedin.com/in/muftau-idris-3221603a1)
+A sports platform designed to support school sports activities and live score updates.
+
+Kandy’s Treats
+
+A food business platform focused on online ordering and improving store operations.
+
+BIA JUPEB
+
+A modern website experience for a JUPEB admission centre, focused on clear information and usability.
+
+Amigo World
+
+A social platform project exploring user profiles, interactive communities, and real-time experiences.
+
+🤝 Connect With Me
+
+* Portfolio: amigodev.com.ng
+* LinkedIn: Muftau Idris
+* GitHub: @Amigo-1234
+
+⸻
+
+Building, learning, and improving one project at a time.
