@@ -6,7 +6,7 @@ I’m a developer and Mechanical Engineering student at Ekiti State University (
 
 I work across frontend development, backend services, databases, authentication, and deployment, with a focus on clean interfaces, maintainable code, and reliable user experiences.
 
-🌐 Portfolio: amigodev.com.ng
+🌐 Portfolio: [amigodev.com.ng](https://www.amigodev.com.ng/)
 
 🛠️ Technologies & Tools
 
@@ -35,7 +35,7 @@ A social platform project exploring user profiles, interactive communities, and 
 
 🤝 Connect With Me
 
-* Portfolio: amigodev.com.ng
+* Portfolio: [amigodev.com.ng](https://www.amigodev.com.ng/)
 * LinkedIn: Muftau Idris
 * GitHub: @Amigo-1234
 
